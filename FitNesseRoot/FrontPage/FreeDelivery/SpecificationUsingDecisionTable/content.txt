@@ -1,0 +1,14 @@
+We offer free delivery to the customer when the total price of the Shopping Cart is equal or greater than 19,95 EUR
+
+Examples:
+
+!|free delivery examples                           |
+|products ordered      |total price|delivery costs?|
+|1 book                |19,94      |3,95           |
+|2 books               |20,00      |Free           |
+|1 book                |19,95      |Free           |
+|1 book, 1 refrigerator|799,99     |Free           |
+
+
+
+

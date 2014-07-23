@@ -1,0 +1,6 @@
+As a marketing manager  
+I want the system to offer free delivery on certain items   
+So I can entice customers to order more
+
+
+!contents -R2 -g -p -f -h

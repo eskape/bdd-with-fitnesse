@@ -1,0 +1,7 @@
+!|library                 |
+|free delivery definitions|
+
+!|script                                                           |
+|given customer has empty shopping basket                          |
+|when customer orders products with total price greater than EUR 20|
+|then customer gets free shipping                                  |
